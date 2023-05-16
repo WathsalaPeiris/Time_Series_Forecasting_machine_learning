@@ -13,6 +13,7 @@ In this section below points are visualised:
 1. CPI percentage changes from previous quarter by main city in Austrlaia and by year (2009 - 2022)
 2. The realtionship between CPI percentage change and WPI percentage change - From the two time series plotted in one graph shows that a shift in CPI will reflect a shift towards same direction within next few quarters but the size of the change is not same.
 3. Used Tableau buit-in functions to forecast CPI percentage change.
+4. https://public.tableau.com/app/profile/wathsala.peiris/viz/CPIandWPIpercentagechangesinAustralia/Story1?publish=yes
 
 # Part 2 - Linear Regression model
 In this section the viewer can see an attempt to predict 2023 Quarter1 WPI percentage change based by fitting a Linear regresson model. The WPI time series was considered as a univariate time series in this section and predicted only based on its previous values. The effect of CPI is not considered here.
